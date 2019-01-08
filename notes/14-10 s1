@@ -1,0 +1,4 @@
+1. npm init -y
+2. install --save express
+3. create a new index.js file
+4. inside index.js

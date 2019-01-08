@@ -1,0 +1,18 @@
+Create root Folder
+
+/app
+/app/controllers
+/app/models
+/app/views
+/app/middlewares
+
+/config
+/config/routes.js
+/config/db.js
+
+
+create app/models/book.js
+    Objet  prototye function
+
+
+
